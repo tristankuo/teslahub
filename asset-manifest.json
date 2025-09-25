@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/teslahub/static/css/main.69f96a61.css",
-    "main.js": "/teslahub/static/js/main.b3de1207.js",
+    "main.js": "/teslahub/static/js/main.7e9bf21f.js",
     "index.html": "/teslahub/index.html",
     "main.69f96a61.css.map": "/teslahub/static/css/main.69f96a61.css.map",
-    "main.b3de1207.js.map": "/teslahub/static/js/main.b3de1207.js.map"
+    "main.7e9bf21f.js.map": "/teslahub/static/js/main.7e9bf21f.js.map"
   },
   "entrypoints": [
     "static/css/main.69f96a61.css",
-    "static/js/main.b3de1207.js"
+    "static/js/main.7e9bf21f.js"
   ]
 }
